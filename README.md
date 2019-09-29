@@ -1,0 +1,2 @@
+# python_recommendAL_V1
+推荐算法整理：包含构建usr与item矩阵。通过相应计算达到推荐的目的
